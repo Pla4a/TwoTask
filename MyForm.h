@@ -205,7 +205,7 @@ namespace Two {
 
 			else
 
-				if (x > 0 && x <= a) { y = (sin(pow(x,3) + pow(x,0.5))); }
+				if (x > 0 && x <= a) { y = (sin(pow(x,3)) + pow(x,0.5)); }
 
 				else
 
